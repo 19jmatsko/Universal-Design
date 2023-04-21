@@ -1,0 +1,28 @@
+h1, h2 {
+    color: darkred;
+    }
+    
+    p {
+    color: black;
+    }
+    
+    ul {
+    border: 5px solid darkgreen;
+    }
+    
+    ol {
+    border: 5px solid darkgreen;
+    }
+    
+    ol, ul {
+    padding: 10px 30px;
+    border-radius: 4px;
+    }
+    
+    h1, strong {
+    color: darkred;
+    }
+    
+    em {
+    color: darkred;
+    }
